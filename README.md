@@ -53,7 +53,7 @@ This project was created to support my application for the NIHR Undergraduate In
 
 Joseph Pedley
 Undergraduate Applied Software Engineering BSc student - Cardiff University  
-Email: pedleyl@cardiff.ac.uk
+Email: pedleyj@cardiff.ac.uk
 
 ---
 
