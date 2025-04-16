@@ -1,0 +1,14 @@
+{
+  "name": "ecrf-automated-testing-framework",
+  "version": "1.0.0",
+  "description": "Automated testing framework for clinical trial eCRFs using Cypress and JavaScript",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "start": "http-server . -p 8080"
+  },
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "http-server": "^14.1.1"
+  }
+}
